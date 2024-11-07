@@ -9,3 +9,9 @@ Este repositório é destinado a disponibilizar os links para as partes do proje
 ## Bio Spot Web
 - [Bio Spot Public Repository](https://github.com/viniciusNoleto/expoferr-bio-spot-public)
 - [Bio Spot Admin Repository](https://github.com/viniciusNoleto/expoferr-bio-spot)
+
+## Bio Spot Power BI
+- [Power BI](https://nishbdorg-my.sharepoint.com/:u:/g/personal/257531_365net_co/EXqlU_64NHdDkF1jNgS9ESoBku0tXnSREvu44n6AU5dyYQ?e=mLb0r6)
+
+## Bio Spot Backend
+- [Repository](https://github.com/Pablo304/biospot)
